@@ -1,0 +1,35 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 9px;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px ;
+    
+}
+.card h3{
+    padding-top: 20px;
+}
+.cat img{
+    width:200px;
+    padding-top:50px ;
+}
+.orange{
+    color: orange;
+}
