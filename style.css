@@ -33,3 +33,24 @@
 .orange{
     color: orange;
 }
+
+.cat2 img{
+    width: 100%;
+}
+.cat3{
+    
+    box-shadow: 2px 10px 20px  lightgray;
+    border-radius: 10px ; 
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+}
+.cat4{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px ; 
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+    margin-top: 180px;
+}
